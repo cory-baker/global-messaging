@@ -1,2 +1,2 @@
-`pnpm install`
-`pnpm dev`
+`npm install`
+`npm dev`
